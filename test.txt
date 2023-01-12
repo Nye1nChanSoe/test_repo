@@ -1,3 +1,7 @@
 Hello
 World!
 Line added directly from GitHub remote repo
+<<<<<<< HEAD
+=======
+
+>>>>>>> dev
